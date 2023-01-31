@@ -1,4 +1,7 @@
-### Hi there 👋
+Graduate software developer working in the industry on desktop applications.
+- Main day-to-day work language: `C#`.
+- Favourite languages: `C++`, `Rust`.
+- Favourite development topics: game development, graphics, engine design.
 
 <!--
 **ttrounce/ttrounce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
