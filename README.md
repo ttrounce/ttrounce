@@ -1,5 +1,5 @@
 Graduate software developer working in the industry on desktop applications.
-- Main day-to-day work language: `C#`.
+- Main day-to-day work language: `C#`, `C++`.
 - Favourite languages: `C++`, `Rust`.
 - Favourite development topics: game development, graphics, engine design.
 
