@@ -1,6 +1,7 @@
-Graduate software developer working in the industry on desktop applications.
-- Main day-to-day work language: `C#`, `C++`.
-- Favourite languages: `C++`, `Rust`.
+Software developer working in the industry on desktop, mobile, and web applications.
+
+- Main day-to-day work language: C#, C++.
+- Favourite language: Odin.
 - Favourite development topics: game development, graphics, engine design.
 
 <!--
